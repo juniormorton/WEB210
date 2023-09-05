@@ -1,0 +1,25 @@
+/* A basic template for CSS, all screen sizing will vary based on the project */
+
+@media all {
+
+}
+
+@media screen {
+
+}
+
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 900px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+@media print {
+
+}
